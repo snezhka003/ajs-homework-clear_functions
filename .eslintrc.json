@@ -16,10 +16,10 @@
             "error",
             "LabeledStatement",
             "WithStatement"
-        ]
-        /* "linebreak-style": [
+        ],
+        "linebreak-style": [
             "error",
             "windows"
-        ] */
+        ]
     }
 }
